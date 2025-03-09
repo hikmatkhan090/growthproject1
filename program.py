@@ -20,7 +20,7 @@ st.markdown(
  )
 
  #title and description
-st.title("Datasweeper Sterling Integrator by hikmat Khan")
+st.title("Datasweeper Sterling Integrator by Hikmat Khan")
 st.write("This application is designed to help you clean up your data. You can upload a CSV file and select the columns you want to keep. The app will then return a new CSV file with only the columns you selected.")
 
 
